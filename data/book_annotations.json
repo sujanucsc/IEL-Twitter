@@ -1,0 +1,636 @@
+{
+  "annotation": [
+    {
+      "tweet": "https://twitter.com/beffenty/status/499776173350854656",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/harveyspecters/status/504485634245804032",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/NotGilbertGrape/status/502262100505661440",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/jacobjmouradian/status/501078141922988032",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/YoureSoShain/status/498986574651342848",
+      "annotation": "https://en.wikipedia.org/wiki/The_Leftovers_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/ZadaKent/status/500786031042387968",
+      "annotation": "https://en.wikipedia.org/wiki/The_Leftovers_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/the_blueprint/status/503901879223713792",
+      "annotation": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    },
+    {
+      "tweet": "https://twitter.com/AGingeredLife/status/499592772966699009",
+      "annotation": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    },
+    {
+      "tweet": "https://twitter.com/GuruGaby_/status/496348359754809346",
+      "annotation": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    },
+    {
+      "tweet": "https://twitter.com/Jaysmallcgy/status/502481136967102464",
+      "annotation": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    },
+    {
+      "tweet": "https://twitter.com/trishaleighKC/status/503714436025425921",
+      "annotation": "https://en.wikipedia.org/wiki/If_I_Stay"
+    },
+    {
+      "tweet": "https://twitter.com/kaitlynjadehall/status/502998393908899840",
+      "annotation": "https://en.wikipedia.org/wiki/If_I_Stay"
+    },
+    {
+      "tweet": "https://twitter.com/dexter676/status/497540194682564609",
+      "annotation": "https://en.wikipedia.org/wiki/The_5th_Wave_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/kangaru/status/502828817396686848",
+      "annotation": "https://en.wikipedia.org/wiki/If_I_Stay"
+    },
+    {
+      "tweet": "https://twitter.com/uberpopsicle11/status/503705847286235137",
+      "annotation": "https://en.wikipedia.org/wiki/If_I_Stay"
+    },
+    {
+      "tweet": "https://twitter.com/Jenixsmile/status/502032060232376321",
+      "annotation": "https://en.wikipedia.org/wiki/If_I_Stay"
+    },
+    {
+      "tweet": "https://twitter.com/G0KartM0zart/status/505975007269642240",
+      "annotation": "https://en.wikipedia.org/wiki/Lolita"
+    },
+    {
+      "tweet": "https://twitter.com/HeGeekSheGeek/status/496686386171215872",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/EW/status/496334759300440065",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/IGN/status/496418544234815488",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/TheMichaelMoran/status/496252243117879296",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/andydiggle/status/495318116365529088",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/jgrebes/status/495279353073520640",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/Zap2it/status/496626971124563970",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/TheMarySue/status/495426313407066112",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/MrTerryDeacon/status/497271384822009856",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/saqua23/status/496095945302736896",
+      "annotation": "https://en.wikipedia.org/wiki/Horns_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/iSpeakThatREAL/status/499006660237881344",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/MissChloeJoness/status/501282988400070657",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/LewWillie/status/503009486022643713",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/Nawshus/status/505510358069436416",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/JMitch_/status/495566433104191488",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/lloydodan/status/499431266748755968",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/OutlandoGirl/status/498359289249951745",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/_acciofandoms/status/504332079593975808",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/ColeWorld_/status/499007584398245888",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/myheroin1/status/496872921306914817",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/MeghanGleason22/status/499704452895735808",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/adoringIarry/status/505401206676922368",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/WeAreTheHeroes_/status/503168681804070913",
+      "annotation": "https://en.wikipedia.org/wiki/Allegiant_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/ThemePark/status/500455867091677184",
+      "annotation": "https://en.wikipedia.org/wiki/Mockingjay"
+    },
+    {
+      "tweet": "https://twitter.com/ConnorPugh7/status/497434216158990336",
+      "annotation": "https://en.wikipedia.org/wiki/Mockingjay"
+    },
+    {
+      "tweet": "https://twitter.com/turntwest/status/498590407794892800",
+      "annotation": "https://en.wikipedia.org/wiki/Mockingjay"
+    },
+    {
+      "tweet": "https://twitter.com/allygordon11/status/497618750502207489",
+      "annotation": "https://en.wikipedia.org/wiki/Mockingjay"
+    },
+    {
+      "tweet": "https://twitter.com/emilyvallely/status/495280145889263617",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/Mysteriousskiin/status/496813596417196032",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/nerdgasming/status/495295400887058432",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/Nattasha_b/status/499354412884983808",
+      "annotation": "https://en.wikipedia.org/wiki/Outlander_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/margoroths/status/501050649513979906",
+      "annotation": "https://en.wikipedia.org/wiki/Outlander_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/HitTheRoadBucky/status/499525183758405633",
+      "annotation": "https://en.wikipedia.org/wiki/The_Sex_Lives_of_Siamese_Twins"
+    },
+    {
+      "tweet": "https://twitter.com/BamaTooth/status/495622601104822272",
+      "annotation": "https://en.wikipedia.org/wiki/The_Zombie_Survival_Guide"
+    },
+    {
+      "tweet": "https://twitter.com/AwadAlmurisi/status/504963411570987008",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/bibiela213/status/499684368982761472",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/sammieannex/status/498911912986677248",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/hidayat0653/status/501766382548029441",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/LenyMKTO/status/502292085362663425",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/salngvyen/status/504779401582485506",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+    },
+    {
+      "tweet": "https://twitter.com/__TheMazeRunner/status/499966952946020354",
+      "annotation": "https://en.wikipedia.org/wiki/The_Death_Cure"
+    },
+    {
+      "tweet": "https://twitter.com/iyashannon/status/504738271268982785",
+      "annotation": "https://en.wikipedia.org/wiki/The_Death_Cure"
+    },
+    {
+      "tweet": "https://twitter.com/Infinite_LoveXO/status/504406879419002881",
+      "annotation": "https://en.wikipedia.org/wiki/The_Death_Cure"
+    },
+    {
+      "tweet": "https://twitter.com/MaddyTheNunja/status/498122291273023489",
+      "annotation": "https://en.wikipedia.org/wiki/The_Death_Cure"
+    },
+    {
+      "tweet": "https://twitter.com/WhyNotJanice/status/499968563764277249",
+      "annotation": "https://en.wikipedia.org/wiki/The_Death_Cure"
+    },
+    {
+      "tweet": "https://twitter.com/jaynutt303/status/505611253541126144",
+      "annotation": "https://en.wikipedia.org/wiki/Infinite_Jest"
+    },
+    {
+      "tweet": "https://twitter.com/ThatEricAlper/status/506804050479026176",
+      "annotation": "https://en.wikipedia.org/wiki/Infinite_Jest"
+    },
+    {
+      "tweet": "https://twitter.com/sunshinekayak/status/505077112030916608",
+      "annotation": "https://en.wikipedia.org/wiki/Infinite_Jest"
+    },
+    {
+      "tweet": "https://twitter.com/skylightx/status/502055922907508736",
+      "annotation": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"
+    },
+    {
+      "tweet": "https://twitter.com/cholosNcocaine/status/502808764681306112",
+      "annotation": "https://en.wikipedia.org/wiki/And_the_Mountains_Echoed"
+    },
+    {
+      "tweet": "https://twitter.com/NaiShanice_/status/499350757280600064",
+      "annotation": "https://en.wikipedia.org/wiki/And_the_Mountains_Echoed"
+    },
+    {
+      "tweet": "https://twitter.com/deductivewoman/status/497919916637691906",
+      "annotation": "https://en.wikipedia.org/wiki/Stone_Mattress"
+    },
+    {
+      "tweet": "https://twitter.com/plainbananas/status/500194328598179841",
+      "annotation": "https://en.wikipedia.org/wiki/Stone_Mattress"
+    },
+    {
+      "tweet": "https://twitter.com/TribeofGod/status/496870521485926401",
+      "annotation": "https://en.wikipedia.org/wiki/The_Hot_Zone"
+    },
+    {
+      "tweet": "https://twitter.com/killmotion/status/497719431821152256",
+      "annotation": "https://en.wikipedia.org/wiki/The_Hot_Zone"
+    },
+    {
+      "tweet": "https://twitter.com/emilyhidey/status/495595134202150912",
+      "annotation": "https://en.wikipedia.org/wiki/The_Hot_Zone"
+    },
+    {
+      "tweet": "https://twitter.com/FrostFaery/status/496637042886184960",
+      "annotation": "https://en.wikipedia.org/wiki/The_Hot_Zone"
+    },
+    {
+      "tweet": "https://twitter.com/TribeofGod/status/496870521485926401",
+      "annotation": "https://en.wikipedia.org/wiki/The_Hot_Zone"
+    },
+    {
+      "tweet": "https://twitter.com/killmotion/status/497719431821152256",
+      "annotation": "https://en.wikipedia.org/wiki/The_Hot_Zone"
+    },
+    {
+      "tweet": "https://twitter.com/abcnews/status/505253557704998912",
+      "annotation": "https://en.wikipedia.org/wiki/Revolting_Rhymes"
+    },
+    {
+      "tweet": "https://twitter.com/PublishersWkly/status/504959090901409793",
+      "annotation": "https://en.wikipedia.org/wiki/Revolting_Rhymes"
+    },
+    {
+      "tweet": "https://twitter.com/andrewjhansen/status/505209356984406016",
+      "annotation": "https://en.wikipedia.org/wiki/Revolting_Rhymes"
+    },
+    {
+      "tweet": "https://twitter.com/epubli_uk/status/505263588706353152",
+      "annotation": "https://en.wikipedia.org/wiki/Revolting_Rhymes"
+    },
+    {
+      "tweet": "https://twitter.com/mrtonymartin/status/505203803352612865",
+      "annotation": "https://en.wikipedia.org/wiki/Revolting_Rhymes"
+    },
+    {
+      "tweet": "https://twitter.com/codywillard/status/504305100643262464",
+      "annotation": "https://en.wikipedia.org/wiki/Outliers_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/John_Bird_Elder/status/497588263079510017",
+      "annotation": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory"
+    },
+    {
+      "tweet": "https://twitter.com/SayWhatSugar/status/497741603365453825",
+      "annotation": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory"
+    },
+    {
+      "tweet": "https://twitter.com/SayWhatSugar/status/497741603365453825",
+      "annotation": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory"
+    },
+    {
+      "tweet": "https://twitter.com/RyanLebens/status/499387142091853826",
+      "annotation": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+    },
+    {
+      "tweet": "https://twitter.com/nzwa85/status/502554178070523904",
+      "annotation": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+    },
+    {
+      "tweet": "https://twitter.com/gbluebelle/status/505206805656375297",
+      "annotation": "https://en.wikipedia.org/wiki/Inferno_(Brown_novel)"
+    },
+    {
+      "tweet": "https://twitter.com/elisa_setiadi/status/504907204504215553",
+      "annotation": "https://en.wikipedia.org/wiki/Inferno_(Brown_novel)"
+    },
+    {
+      "tweet": "https://twitter.com/aledowenthomas/status/497813335933730816",
+      "annotation": "https://en.wikipedia.org/wiki/Cloud_Atlas_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/whereareyoucas/status/504697061514944515",
+      "annotation": "https://en.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower"
+    },
+    {
+      "tweet": "https://twitter.com/itsmrsfreeman/status/497237354009346049",
+      "annotation": "https://en.wikipedia.org/wiki/The_Lightning_Thief"
+    },
+    {
+      "tweet": "https://twitter.com/yuraotonashi/status/500177442170863618",
+      "annotation": "https://en.wikipedia.org/wiki/The_Lightning_Thief"
+    },
+    {
+      "tweet": "https://twitter.com/jd2607/status/502051715001368576",
+      "annotation": "https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)"
+    },
+    {
+      "tweet": "https://twitter.com/libraryeliza/status/496715009863327744",
+      "annotation": "https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)"
+    },
+    {
+      "tweet": "https://twitter.com/RoomtoRead/status/497880200106221568",
+      "annotation": "https://en.wikipedia.org/wiki/The_Ice_Dragon"
+    },
+    {
+      "tweet": "https://twitter.com/RiaMarcelino/status/494851218682818562",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/castillokath/status/496595183514173440",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/kisspeoria/status/499882761763565568",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/iLove_CC/status/499664907931906048",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/frequentbeef/status/505114486232350720",
+      "annotation": "https://en.wikipedia.org/wiki/All_You_Need_Is_Kill"
+    },
+    {
+      "tweet": "https://twitter.com/TheIdDM/status/503712136271790080",
+      "annotation": "https://en.wikipedia.org/wiki/All_You_Need_Is_Kill"
+    },
+    {
+      "tweet": "https://twitter.com/TDAllonsy/status/495888681492688896",
+      "annotation": "https://en.wikipedia.org/wiki/All_You_Need_Is_Kill"
+    },
+    {
+      "tweet": "https://twitter.com/JurassicGriffin/status/501482217202524161",
+      "annotation": "https://en.wikipedia.org/wiki/All_You_Need_Is_Kill"
+    },
+    {
+      "tweet": "https://twitter.com/Goracus/status/503586764771295232",
+      "annotation": "https://en.wikipedia.org/wiki/All_You_Need_Is_Kill"
+    },
+    {
+      "tweet": "https://twitter.com/PD_Smith/status/496215809887584256",
+      "annotation": "https://en.wikipedia.org/wiki/Planet_of_the_Apes_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/philosovashka/status/498844166928203776",
+      "annotation": "https://en.wikipedia.org/wiki/Under_the_Skin_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/AnnaOGrady1/status/501328105676361730",
+      "annotation": "https://en.wikipedia.org/wiki/The_Book_Of_Strange_New_Things"
+    },
+    {
+      "tweet": "https://twitter.com/SPCalla/status/495975295779086336",
+      "annotation": "https://en.wikipedia.org/wiki/Under_the_Skin_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/180_Marketing/status/504629630805221376",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/ConnorRuane/status/496769510494728192",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/RMUMoes/status/505387558453649409",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/porcupuck/status/497419607905677312",
+      "annotation": "\"https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival"
+    },
+    {
+      "tweet": "https://twitter.com/chris_archinal/status/500847797105852416",
+      "annotation": "\"https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival"
+    },
+    {
+      "tweet": "https://twitter.com/skyey_88/status/495316245173264384",
+      "annotation": "\"https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival"
+    },
+    {
+      "tweet": "https://twitter.com/missingpaige/status/499031057652408321",
+      "annotation": "\"https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival"
+    },
+    {
+      "tweet": "https://twitter.com/pauladlam66/status/503486522180771840",
+      "annotation": "\"https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival"
+    },
+    {
+      "tweet": "https://twitter.com/MVS_KGoworek/status/499322496899100672",
+      "annotation": "\"https://en.wikipedia.org/wiki/Unbroken:_A_World_War_II_Story_of_Survival"
+    },
+    {
+      "tweet": "https://twitter.com/CassandraMcKown/status/499353086813831169",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/jessdoitt/status/499293551222878208",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/Trishh_Messs/status/504104221499985921",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/TheNovelTease/status/499291651807145985",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/Paigenwilliams/status/499434184310784001",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/_missmaddie/status/498908734178222080",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/DavidFiske1/status/503339903376441344",
+      "annotation": "https://en.wikipedia.org/wiki/Twelve_Years_a_Slave"
+    },
+    {
+      "tweet": "https://twitter.com/Atharluvsrk/status/500260041380093952",
+      "annotation": "https://en.wikipedia.org/wiki/Hamlet"
+    },
+    {
+      "tweet": "https://twitter.com/Mobile_Trivia/status/506118738857713664",
+      "annotation": "https://en.wikipedia.org/wiki/World_War_Z"
+    },
+    {
+      "tweet": "https://twitter.com/camillemathay/status/497021490051547136",
+      "annotation": "https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County"
+    },
+    {
+      "tweet": "https://twitter.com/SunniBrown/status/502872666852696064",
+      "annotation": "https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County"
+    },
+    {
+      "tweet": "https://twitter.com/beccadorr/status/505041877650120704",
+      "annotation": "https://en.wikipedia.org/wiki/Serena_(novel)"
+    },
+    {
+      "tweet": "https://twitter.com/D_Gibs13/status/497533771554754560",
+      "annotation": "https://en.wikipedia.org/wiki/American_Sniper_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/cwilly1010/status/504420320150040576",
+      "annotation": "https://en.wikipedia.org/wiki/American_Sniper_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/voegeli_2/status/504816952486166528",
+      "annotation": "https://en.wikipedia.org/wiki/American_Sniper_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/JinxMcGillicudd/status/496124089153912832",
+      "annotation": "https://en.wikipedia.org/wiki/American_Sniper_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/Lil_Meez9/status/499763685628190720",
+      "annotation": "https://en.wikipedia.org/wiki/American_Sniper_(book)"
+    },
+    {
+      "tweet": "https://twitter.com/sergihoeee/status/500735291171545088",
+      "annotation": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    },
+    {
+      "tweet": "https://twitter.com/briweb69/status/497194632912969731",
+      "annotation": "https://en.wikipedia.org/wiki/Horns_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/FiftyShadesID/status/499894847998681088",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/RiaMarcelino/status/494851218682818562",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/tacgael/status/504259745344421888",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/Brenda_midamba/status/495281687392436224",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/Kaitlyn_Yeh/status/501137418750156801",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+    },
+    {
+      "tweet": "https://twitter.com/hellenicholiday/status/506045799893983232",
+      "annotation": "https://en.wikipedia.org/wiki/The_Lovely_Bones"
+    },
+    {
+      "tweet": "https://twitter.com/jackybekillinem/status/499424686933958656",
+      "annotation": "https://en.wikipedia.org/wiki/The_Lovely_Bones"
+    },
+    {
+      "tweet": "https://twitter.com/Megan_Mercury/status/495306535300763649",
+      "annotation": "https://en.wikipedia.org/wiki/The_Lovely_Bones"
+    },
+    {
+      "tweet": "https://twitter.com/MuirneM/status/505483280603684864",
+      "annotation": "https://en.wikipedia.org/wiki/The_Lovely_Bones"
+    },
+    {
+      "tweet": "https://twitter.com/theoneringnet/status/505912649897373696",
+      "annotation": "https://en.wikipedia.org/wiki/The_Hobbit"
+    },
+    {
+      "tweet": "https://twitter.com/SawBleu/status/502543141615194113",
+      "annotation": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+    },
+    {
+      "tweet": "https://twitter.com/ashleyyscarlett/status/502263130987446273",
+      "annotation": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+    },
+    {
+      "tweet": "https://twitter.com/BrittSkrabanek/status/505399984817045505",
+      "annotation": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+    },
+    {
+      "tweet": "https://twitter.com/WriterKarma/status/496368973194477569",
+      "annotation": "https://en.wikipedia.org/wiki/Memoirs_of_a_Geisha"
+    },
+    {
+      "tweet": "https://twitter.com/Hemswerth/status/500800673739714560",
+      "annotation": "https://en.wikipedia.org/wiki/A_Walk_to_Remember_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/dbeez_/status/501924674151141378",
+      "annotation": "https://en.wikipedia.org/wiki/A_Walk_to_Remember_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/jasonwhyte/status/495649534047825920",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/MarcoTexRanger/status/503983136074899456",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/dacretu/status/504353193825165312",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/_Aitching/status/496954214644727808",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_%28novel%29"
+    },
+    {
+      "tweet": "https://twitter.com/bouledesuiff/status/500331331545739264",
+      "annotation": "https://en.wikipedia.org/wiki/Gone_Girl_%28novel%29"
+    }
+  ]
+}

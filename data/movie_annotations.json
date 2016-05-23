@@ -1,0 +1,700 @@
+{
+  "annotation": [
+    {
+      "tweet": "https://twitter.com/seangentille/status/502085367177424897",
+      "annotation": "https://en.wikipedia.org/wiki/Deepwater_Horizon_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/moviesteem/status/502827524150534145",
+      "annotation": "https://en.wikipedia.org/wiki/Deepwater_Horizon_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/greenforyou/status/502045688683704320",
+      "annotation": "https://en.wikipedia.org/wiki/Deepwater_Horizon_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/THR/status/501945488959369217",
+      "annotation": "https://en.wikipedia.org/wiki/Deepwater_Horizon_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/BrianWCollins/status/495614307766247424",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/rodimusprime/status/496648852833722368",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/BrianWCollins/status/503698681099337728",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/Clarknova1/status/498238797298274304",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/PropJonez/status/498101054987202561",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/randomlyrossy/status/495613146720378880",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/sylvisual/status/506154755878838272",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/tonywolfness/status/503735231846051840",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/silverfox5213/status/501427645968433152",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/LorenaMartine59/status/503902537519734784",
+      "annotation": "https://en.wikipedia.org/wiki/Divergent_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/dauntlessboys/status/500473691751587841",
+      "annotation": "https://en.wikipedia.org/wiki/Divergent_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/watsWritewithme/status/501412445861064704",
+      "annotation": "https://en.wikipedia.org/wiki/Divergent_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/watsWritewithme/status/501412709779259393",
+      "annotation": "https://en.wikipedia.org/wiki/Divergent_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/naturallysheo/status/497917114125004800",
+      "annotation": "https://en.wikipedia.org/wiki/Divergent_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/likeshewasaBird/status/498663343205679104",
+      "annotation": "https://en.wikipedia.org/wiki/Divergent_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/El_flaco_swaq/status/502822642978521089",
+      "annotation": "https://en.wikipedia.org/wiki/White_Bird_in_a_Blizzard"
+    },
+    {
+      "tweet": "https://twitter.com/IamSelinaM/status/500884555423694848",
+      "annotation": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/Jim_Nowhere/status/503034701574324224",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/nofilmschool/status/503092610001829888",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/SingInTheRine/status/497993676316868608",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/trevorbasset/status/502664791333158913",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/grandrapidsday/status/500226180801241088",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/shadez/status/502894518098595840",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/davidgans/status/503727384282292225",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/meanhood/status/497448485898436608",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/Chris_Hopetx/status/495783035137060865",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/ZAQHHSYYL_C4US/status/499627073179119616",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/nickdahhhden/status/499384298487554048",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/peterskillet/status/503737942632710144",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/merryh/status/496996985388290048",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/JoeCanton2/status/502393512315609088",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/DavidPoland/status/497144483243249665",
+      "annotation": "https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice"
+    },
+    {
+      "tweet": "https://twitter.com/JakeMoody98/status/499270831713701889",
+      "annotation": "https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice"
+    },
+    {
+      "tweet": "https://twitter.com/CourtneyJeanZ/status/504854429950935040",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/JennaScheiner/status/498606058295029762",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/adoresoir/status/496013148806459393",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/twentyonesounds/status/496346893308272642",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/LyricalSunset7/status/504850567806849025",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/DewShpag/status/502028756584644608",
+      "annotation": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/MaxwellCodes/status/497622273667653632",
+      "annotation": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/IrishBeast78/status/497211687871602688",
+      "annotation": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/JointFairy311D/status/495827301947305984",
+      "annotation": "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_2"
+    },
+    {
+      "tweet": "https://twitter.com/binnsy/status/500082388236394496",
+      "annotation": "https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/TommyHajj/status/505126927301349376",
+      "annotation": "https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/TokuDeka/status/505805195100815360",
+      "annotation": "https://en.wikipedia.org/wiki/Godzilla_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/DocScotticus/status/504119593229905922",
+      "annotation": "https://en.wikipedia.org/wiki/Godzilla_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/scwilko/status/503286959486533632",
+      "annotation": "https://en.wikipedia.org/wiki/Godzilla_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/RetepAdam/status/504462816003510272",
+      "annotation": "https://en.wikipedia.org/wiki/Godzilla_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/missnsaleh/status/495926121934749698",
+      "annotation": "https://en.wikipedia.org/wiki/22_Jump_Street"
+    },
+    {
+      "tweet": "https://twitter.com/StarMoviesIndia/status/502718757769592832",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/____Breezy/status/498322564641751041",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/TaiwoAdebambo/status/501129612077064194",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/ChrisDesirVP/status/499614103305220096",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/stopkennedi2k11/status/495756724993683457",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/SpaceMutiny/status/503388757593030656",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/LAM0nt87/status/501194609075052545",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/_stumpyfied/status/496271439683534850",
+      "annotation": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+    },
+    {
+      "tweet": "https://twitter.com/ReeMy5004/status/497727344367267840",
+      "annotation": "https://en.wikipedia.org/wiki/Need_for_Speed_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/JimmieB45/status/504039146294636545",
+      "annotation": "https://en.wikipedia.org/wiki/Need_for_Speed_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/Chelsie_Jones21/status/495639707074969601",
+      "annotation": "https://en.wikipedia.org/wiki/Need_for_Speed_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/DarrynKing/status/497208848122646528",
+      "annotation": "https://en.wikipedia.org/wiki/Begin_Again_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/hollywooddivas/status/500283702652317698",
+      "annotation": "https://en.wikipedia.org/wiki/Begin_Again_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/hollywooddivas/status/504052840336076800",
+      "annotation": "https://en.wikipedia.org/wiki/Begin_Again_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/WayoftheWizard/status/499822676798889984",
+      "annotation": "https://en.wikipedia.org/wiki/Begin_Again_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/racheleklein/status/496525275262242816",
+      "annotation": "https://en.wikipedia.org/wiki/Her_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/theDZfa/status/497398419343028224",
+      "annotation": "https://en.wikipedia.org/wiki/Her_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/alxstine/status/499293740604096513",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/Moniqueeee_H/status/499021206277070849",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/felicianunezz/status/495336321804935168",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/heyyitsalanna/status/497224702327148544",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/siege_31/status/495333111849578496",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/cantaloupesun/status/505914774752747521",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/KayleighG_TW/status/503892279170695168",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/Kaayleighdutton/status/496771124660043776",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/irongrrlrock/status/501532766656544768",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/cass_hole13/status/510185104065323008",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/KristaaMamone/status/502593696433729536",
+      "annotation": "https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film)"
+    },
+    {
+      "tweet": "https://twitter.com/fecima/status/499966843000348676",
+      "annotation": "https://en.wikipedia.org/wiki/Tammy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/teacrock/status/505882483691233281",
+      "annotation": "https://en.wikipedia.org/wiki/Tammy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/DreArea_/status/496504465311019008",
+      "annotation": "https://en.wikipedia.org/wiki/Gravity_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/YungDomestic/status/499177436391944192",
+      "annotation": "https://en.wikipedia.org/wiki/Gravity_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/br0ceans/status/495445189641916417",
+      "annotation": "https://en.wikipedia.org/wiki/Gravity_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/CNN/status/495388574226059264",
+      "annotation": "https://en.wikipedia.org/wiki/Get_on_Up_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/MCHammer/status/495461702146592768",
+      "annotation": "https://en.wikipedia.org/wiki/Get_on_Up_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/THR/status/495363550974865410",
+      "annotation": "https://en.wikipedia.org/wiki/The_Transporter_Refueled"
+    },
+    {
+      "tweet": "https://twitter.com/TheRoot/status/495216167553073153",
+      "annotation": "https://en.wikipedia.org/wiki/Aaliyah:_The_Princess_of_R%26B"
+    },
+    {
+      "tweet": "https://twitter.com/nowtoronto/status/495333205659361280",
+      "annotation": "https://en.wikipedia.org/wiki/Magic_in_the_Moonlight"
+    },
+    {
+      "tweet": "https://twitter.com/AOLLifestyle/status/495150701018763264",
+      "annotation": "https://en.wikipedia.org/wiki/The_Giver_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/ToddCooper4300/status/495410188728283137",
+      "annotation": "https://en.wikipedia.org/wiki/Aaliyah:_The_Princess_of_R%26B"
+    },
+    {
+      "tweet": "https://twitter.com/DaBigBody/status/495358366257258496",
+      "annotation": "https://en.wikipedia.org/wiki/Get_on_Up_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/VancityBuzz/status/495455222912004097",
+      "annotation": "https://en.wikipedia.org/wiki/Into_the_Forest"
+    },
+    {
+      "tweet": "https://twitter.com/MarkAgee/status/495363556444225536",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/bb_brooks/status/495443759686242304",
+      "annotation": "https://en.wikipedia.org/wiki/The_Single_Moms_Club"
+    },
+    {
+      "tweet": "https://twitter.com/Z1079/status/495365692473237504",
+      "annotation": "https://en.wikipedia.org/wiki/Aaliyah:_The_Princess_of_R%26B"
+    },
+    {
+      "tweet": "https://twitter.com/Henderson_Joe/status/495339002304937984",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/chrisMusic88/status/495316821621608448",
+      "annotation": "https://en.wikipedia.org/wiki/The_House_of_Magic"
+    },
+    {
+      "tweet": "https://twitter.com/joe_hill/status/495368584580050944",
+      "annotation": "https://en.wikipedia.org/wiki/X-Men:_The_Last_Stand"
+    },
+    {
+      "tweet": "https://twitter.com/Bullycon/status/495400161708097537",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/DerrickJWyatt/status/495300507460595712",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/SethAbramovitch/status/495341682519330816",
+      "annotation": "https://en.wikipedia.org/wiki/Ricki_and_the_Flash"
+    },
+    {
+      "tweet": "https://twitter.com/the_moviebob/status/495594881549869056",
+      "annotation": "https://en.wikipedia.org/wiki/The_Last_Airbender"
+    },
+    {
+      "tweet": "https://twitter.com/MFryActual/status/495399244594180096",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+    },
+    {
+      "tweet": "https://twitter.com/PrayForJack/status/495390210398892032",
+      "annotation": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/CaseyNeistat/status/495327422196486144",
+      "annotation": "https://en.wikipedia.org/wiki/We_Are_Your_Friends_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Manatti23/status/495430651517358080",
+      "annotation": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Top10Films/status/495313179493167104",
+      "annotation": "https://en.wikipedia.org/wiki/The_New_Adventures_of_Snow_White"
+    },
+    {
+      "tweet": "https://twitter.com/DJDURL/status/495584637444694016",
+      "annotation": "https://en.wikipedia.org/wiki/Get_on_Up_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/MysticSaiyaman/status/495413536219095040",
+      "annotation": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Jigarthanda/status/495953453613449216",
+      "annotation": "https://en.wikipedia.org/wiki/Jigarthanda"
+    },
+    {
+      "tweet": "https://twitter.com/thorstone137/status/497745413240524800",
+      "annotation": "https://en.wikipedia.org/wiki/Boyhood_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/BilgeEbiri/status/495956592031195136",
+      "annotation": "https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction"
+    },
+    {
+      "tweet": "https://twitter.com/talkhoops/status/496010144644603904",
+      "annotation": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/MsSarahPaulson/status/496009636374667264",
+      "annotation": "https://en.wikipedia.org/wiki/The_One_I_Love_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/jonwurster/status/495993802834726912",
+      "annotation": "https://en.wikipedia.org/wiki/Get_on_Up_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/ChuckWendig/status/495975061934059521",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Dan_wills86/status/496027434240974848",
+      "annotation": "https://en.wikipedia.org/wiki/Breakaway_%282011_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/TheRossEverett/status/496010987196018688",
+      "annotation": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/CNN/status/495388574226059264",
+      "annotation": "https://en.wikipedia.org/wiki/Get_on_Up_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/lartist/status/495778779567226880",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/elonjames/status/496020972638449664",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/mattzollerseitz/status/495433295975706624",
+      "annotation": "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+    },
+    {
+      "tweet": "https://twitter.com/B_Hay/status/495325427893010433",
+      "annotation": "https://en.wikipedia.org/wiki/Get_on_Up_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/elonjames/status/496020972638449664",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/yeloson/status/496001815683416064",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/SquigglyRick/status/495744350249168896",
+      "annotation": "https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction"
+    },
+    {
+      "tweet": "https://twitter.com/ShesLisaHananii/status/493688402441539585",
+      "annotation": "https://en.wikipedia.org/wiki/Neighbors_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Thomas_Lull/status/495415151462346752",
+      "annotation": "https://en.wikipedia.org/wiki/Dances_with_Wolves"
+    },
+    {
+      "tweet": "https://twitter.com/thejarrettshow/status/496029430465429504",
+      "annotation": "https://en.wikipedia.org/wiki/Getaway_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/NeekGoBacon/status/496017701757014016",
+      "annotation": "https://en.wikipedia.org/wiki/The_Single_Moms_Club"
+    },
+    {
+      "tweet": "https://twitter.com/DNickz2600GWOOD/status/495798015501025280",
+      "annotation": "https://en.wikipedia.org/wiki/The_Single_Moms_Club"
+    },
+    {
+      "tweet": "https://twitter.com/joeypadron/status/495794102806802432",
+      "annotation": "https://en.wikipedia.org/wiki/Wish_I_Was_Here"
+    },
+    {
+      "tweet": "https://twitter.com/ShinobiAFC/status/495984554084433921",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/sriramk/status/496162328518213632",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/odannyboy/status/496116374788251649",
+      "annotation": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Maya988/status/497427431146668032",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/ChristyTehja_K/status/498036715009765376",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/kingsandthieves/status/497894816299384832",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Scamandalous/status/497373545207713792",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/ReelTalker/status/500721231419936769",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/gvssr/status/498362597503406080",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Shelby_Delaine/status/499735072766177280",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/DrShafbonculous/status/497359365205020672",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/LlandyllGove/status/497683757877694464",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/themaria/status/497789943746293760",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/HuffPostTech/status/497139344445280256",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/maddoxrules/status/500384914621992964",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/pickover/status/497443574716182528",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/MarsDorian/status/497145913895550976",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/AlisonLyke/status/499654242005549057",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/HecklerForever/status/498670595513413632",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/iN3RT_/status/499351624607744000",
+      "annotation": "https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Elle_Jae02/status/501047951880617984",
+      "annotation": "https://en.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West"
+    },
+    {
+      "tweet": "https://twitter.com/vrunt/status/501508235237814272",
+      "annotation": "https://en.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West"
+    },
+    {
+      "tweet": "https://twitter.com/rohanch2010/status/501049738612199426",
+      "annotation": "https://en.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West"
+    },
+    {
+      "tweet": "https://twitter.com/AJDWPhantom/status/496105795709591552",
+      "annotation": "https://en.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West"
+    },
+    {
+      "tweet": "https://twitter.com/HuffingtonPost/status/498542081875640320",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/nypost/status/499642405029953536",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/DeliaCabe/status/498643981002350592",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/kevermantweets/status/499709343340969985",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/scarls17/status/500405531379765248",
+      "annotation": "https://en.wikipedia.org/wiki/The_Best_of_Me_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/xhenghun_xiao/status/499964285993648130",
+      "annotation": "https://en.wikipedia.org/wiki/12_Years_a_Slave_%28film%29"
+    },
+    {
+      "tweet": "https://twitter.com/Rita_liccious/status/501881411939221504",
+      "annotation": "https://en.wikipedia.org/wiki/Inception"
+    },
+    {
+      "tweet": "https://twitter.com/deep_ika/status/500652301741084673",
+      "annotation": "https://en.wikipedia.org/wiki/Happy_New_Year_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/ChetanBhugat/status/500666651788853250",
+      "annotation": "https://en.wikipedia.org/wiki/Happy_New_Year_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/jetgirl78/status/499947623672184834",
+      "annotation": "https://en.wikipedia.org/wiki/Happy_New_Year_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/shramik123/status/499933575710404608",
+      "annotation": "https://en.wikipedia.org/wiki/Happy_New_Year_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/bhibhek/status/500052433951662081",
+      "annotation": "https://en.wikipedia.org/wiki/Happy_New_Year_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/UdaniKnows/status/499965491813699584",
+      "annotation": "https://en.wikipedia.org/wiki/Happy_New_Year_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/ChetanBhugat/status/501374745942564865",
+      "annotation": "https://en.wikipedia.org/wiki/Happy_New_Year_%282014_film%29"
+    },
+    {
+      "tweet": "https://twitter.com/IAmMaheen/status/500321512331968512",
+      "annotation": "https://en.wikipedia.org/wiki/Happy_New_Year_%282014_film%29"
+    }
+  ]
+}
